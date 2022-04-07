@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39fd31db-5c62-4484-812c-ae1741932aa0" name="Changes" comment="Added template">
-      <change beforePath="$PROJECT_DIR$/.idea/JBispham01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JBispham01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="39fd31db-5c62-4484-812c-ae1741932aa0" name="Changes" comment="First draft">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +120,84 @@
       <option name="project" value="LOCAL" />
       <updated>1644897809134</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Draft">
+      <created>1649275919829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649275919829</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added images">
+      <created>1649276348920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649276348920</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added images">
+      <created>1649276385993</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649276385993</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added images">
+      <created>1649276410713</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649276410713</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First draft">
+      <created>1649276466552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649276466552</updated>
+    </task>
+    <task id="LOCAL-00007" summary="First draft">
+      <created>1649276486953</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649276486953</updated>
+    </task>
+    <task id="LOCAL-00008" summary="First draft">
+      <created>1649276552778</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649276552778</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Resized images">
+      <created>1649339264863</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649339264863</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Resized images">
+      <created>1649340218486</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649340218486</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fixed list issue">
+      <created>1649340284928</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1649340284928</updated>
+    </task>
+    <task id="LOCAL-00012" summary="First draft">
+      <created>1649341239633</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1649341239633</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +214,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="First Draft" />
+    <MESSAGE value="added images" />
+    <MESSAGE value="Resized images" />
+    <MESSAGE value="Fixed list issue" />
+    <MESSAGE value="First draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="First draft" />
   </component>
 </project>
