@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39fd31db-5c62-4484-812c-ae1741932aa0" name="Changes" comment="Resized images">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="39fd31db-5c62-4484-812c-ae1741932aa0" name="Changes" comment="Text edits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,7 +228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649350008421</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Resized hover images">
+      <created>1649350403612</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1649350403612</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Text edits">
+      <created>1649384070047</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1649384070047</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +265,8 @@
     <MESSAGE value="First draft" />
     <MESSAGE value="Updated links" />
     <MESSAGE value="Resized images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resized images" />
+    <MESSAGE value="Resized hover images" />
+    <MESSAGE value="Text edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Text edits" />
   </component>
 </project>
